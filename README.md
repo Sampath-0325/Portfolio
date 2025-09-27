@@ -10,8 +10,7 @@ This repository contains the source code for my personal portfolio website, buil
 - **Project showcase:** Features a portfolio section highlighting my projects like Water Crisis Reporting Platform, Expense Tracker, and Crop & Fertilizer Recommendation System.  
 - **Skills section:** Highlights my technical skills with progress bar visualizations.  
 - **Resume section:** Shows education, certifications, and internship experience.  
-- **Services section:** Lists areas of expertise like Web Development, AI, Machine Learning, Data Analytics, and Cyber Security.  
-- **Contact form:** Allows visitors to send me messages.  
+- **Services section:** Lists areas of expertise like Web Development, AI, Machine Learning, Data Analytics, and Cyber Security.   
 
 ## Getting Started
 
